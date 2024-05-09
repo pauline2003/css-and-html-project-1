@@ -1,0 +1,49 @@
+body{
+    padding: 20px;
+    background-color:#fff9d0;
+}
+section{
+    margin:40px 150px;
+    padding: 30px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+h1{
+    font-family: young-serif;
+}
+h2{
+    font-family: outfit;
+    color: blueviolet;
+
+}
+.img{
+    max-width: 100%;
+    border-radius: 15px;
+}
+h2{font-family: outfit;
+color:  brown;
+}
+.preparation{
+    background-color: rgba(243, 219, 229, 0.77);
+}
+.instructions span{
+ font-weight: bold;
+ color: black;
+}
+.ingredients{
+    border-bottom: 1px solid black;
+}
+.instructions{
+    border-bottom: 1px solid black;
+}
+table{
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+td{
+    width: 500px;
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.171);
+    padding: 10px;
+}
